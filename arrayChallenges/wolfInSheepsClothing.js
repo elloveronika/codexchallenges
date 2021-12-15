@@ -30,4 +30,15 @@ let arrSheep = [
   "sheep",
   "sheep",
 ];
+let arrSheep1 = [
+  "sheep",
+  "sheep",
+  "sheep",
+  "sheep",
+  "sheep",
+  "wolf",
+  "sheep",
+  "sheep",
+];
 warnTheSheep(arrSheep);
+warnTheSheep(arrSheep1);
